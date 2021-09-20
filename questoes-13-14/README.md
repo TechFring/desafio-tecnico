@@ -5,11 +5,16 @@ NG MOVIES
 
 <br />
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/54766216/134007679-b38c6f4c-d0f1-4026-8bfb-1a1a81bdd8b5.gif">
+</div>
+
+<br />
+
 ## 🚀 Tecnologias
 
 - ✔️ Angular
 
-<br />
 <br />
 
 ## ⚙️ Executando ambiente de desenvolvimento
@@ -32,7 +37,6 @@ npm install
 npm start
 ```
 
-<br />
 <br />
 
 ## 🤝 Créditos
