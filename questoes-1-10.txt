@@ -1,0 +1,14 @@
+Nome Completo: Danilo Miranda Ferreira
+Data: 20/09/2021
+Tempo gasto para a realização da prova: cerca de 24 horas
+
+1 - Todo cristal é corpo sólido.
+2 - 48
+3 - O resultado da soma da numeração da terceira e da quarta casa é igual a 240.
+4 - 54.326
+5 - Trinta é 30 e não 50. Tamanho: 3
+6 - <audio>
+7 - extensão do CSS que permite o desenvolvimento de regras, variáveis e mixins.
+8 - false
+9 - A diretiva *ngFor é responsável por realizar loops de interação entre tags e propriedades HTML.
+10 - Executar comandos no início do ciclo de vida do componente.

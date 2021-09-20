@@ -1,0 +1,32 @@
+.main {
+  display: grid;
+  grid-template:
+    "left-sidebar router right-sidebar"
+    / 230px 1fr 300px;
+}
+
+.left-sidebar {
+  grid-area: left-sidebar;
+}
+
+.container-router {
+  position: relative;
+  max-width: 900px;
+}
+
+.router {
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  grid-area: router;
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  overflow-y: auto;
+  padding: 25px 30px;
+}
+
+.right-sidebar {
+  grid-area: right-sidebar;
+}
