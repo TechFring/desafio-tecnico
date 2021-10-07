@@ -14,6 +14,7 @@ NG MOVIES
 ## 🚀 Tecnologias
 
 - ✔️ Angular
+- ✔️ SASS
 
 <br />
 
